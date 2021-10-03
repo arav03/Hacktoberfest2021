@@ -78,7 +78,7 @@ void HuffmanCoding(char data[], int freq[], int n)
 
 int main()
 {
-    cout<<"Enter the number of elements"<<endl;
+    cout<<"Enter the number of elements"<<"\n";
 	int n;
     cin>>n;
 
